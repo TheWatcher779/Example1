@@ -1,0 +1,2 @@
+@echo off
+cd "C:\Users\boi-00110d\Desktop\LCode"
